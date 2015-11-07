@@ -4,9 +4,11 @@ URL original (em inglês): https://signalvnoise.com/posts/3972-reconsider
 
 David escreveu este texto em 5/Nov / <%= comments.size %> comentários
 
- Compartilhe no Tweeter (<%= tweets.size %>)
- Compartilhe no Facebook (<%= fb_shares.size %>)
- Compartilhe no LinkedIn (<%= li_shares.size )
+Compartilhe no Tweeter (<%= tweets.size %>)
+
+Compartilhe no Facebook (<%= fb_shares.size %>)
+
+Compartilhe no LinkedIn (<%= li_shares.size )
 
 Cerca de 12 anos atrás, eu co-fundei uma startup chamada Basecamp: Uma ferramenta simples para colaboração em projetos que ajuda as pessoas a progredir juntas, vendida por assinatura mensal.
 
