@@ -2,7 +2,7 @@ URL original (em inglês): https://signalvnoise.com/posts/3972-reconsider
 
 # RECONSIDERE
 
-David escreveu este texto em 5/Nov / <%= num_comments.size %> Comentários
+David escreveu este texto em 5/Nov / <%= comments.size %> comentários
 
  Compartilhe no Tweeter (<%= tweets.size %>)
  Compartilhe no Facebook (<%= fb_shares.size %>)
