@@ -2,15 +2,20 @@ Original URL: https://signalvnoise.com/posts/3972-reconsider
 
 # RECONSIDER
 
-David wrote this on Nov 05 28 comments
+David wrote this on Nov 05 / <%= comments.size %> comments
 
- Compartilhe no Tweeter (483)
- Compartilhe no Facebook (1566)
- Compartilhe no LinkedIn (311)
+Tweet (<%= tweets.size %>)
  
+Share on Facebook (<%= fb_shares.size %>)
+ 
+Share on LinkedIn (<%= li_shares.size %>)
+
 About 12 years ago, I co-founded a startup called Basecamp: A simple project collaboration tool that helps people make progress together, sold on a monthly subscription.
+
 It took a part of some people’s work life and made it a little better. A little nicer than trying to manage a project over email or by stringing together a bunch of separate chat, file sharing, and task systems. Along the way it made for a comfortable business to own for my partner and me, and a great place to work for our employees.
+
 That’s it.
+
 It didn’t disrupt anything. It didn’t add any new members to the three-comma club. It was never a unicorn. Even worse: There are still, after all these years, less than fifty people working at Basecamp. We don’t even have a San Francisco satellite office!
 I know what you’re thinking, right? BOOOORING. Why am I even listening to this guy? Isn’t this supposed to be a conference for the winners of game startup? Like people who’ve either already taken hundreds of million in venture capital or at least are aspiring to? Who the hell in their right mind would waste more than a decade toiling away at a company that doesn’t even have a pretense of an ambition for Eating The World™.
 Well, the reason I’m here is to remind you that maybe, just maybe, you too have a nagging, gagging sense that the current atmosphere of disrupt-o-mania isn’t the only air a startup can breathe. That perhaps this zeal for disruption is not only crowding out other motives for doing a startup, but also can be downright poisonous for everyone here and the rest of the world.
