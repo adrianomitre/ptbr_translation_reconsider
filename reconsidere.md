@@ -26,3 +26,4 @@ Não revolucionou nada. Não adicionou nenhum novo membro ao clube dos
 bilionários. Nunca foi um unicórnio. Pior: Ainda há, após todos esses anos,
 menos de cinquenta pessoas trabalhando na Basecamp. Nós sequer temos um
 escritório satélite em São Francisco!
+Eu sei o que você está pensando, ok? TÉÉÉÉDIO. Por que eu estou sequer escutando esse cara? Isso não era para ser uma conferência para vencedores do jogo das startups? De pessoas que ou já receberam centenas de milhões de investimento ou estão pelo menos tentando? Quem diabos em sã consciência perderia mais de uma decáda ralando numa empresa que sequer aparenta ter a ambição de Dominar O Mundo™.
